@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Joe, and here's my portfolio of what I do in my spare time! <br/><a href="https://linkedin.com/in/joseph-howard-7aaab691">My LinkedIn</a>
+
+<h2>🖥️ My IT Projects</h2>
+<h3>The following projects were completed during my personal time, reflecting not only my skills and experience in IT but also my deep passion for technology beyond the workplace. This documentation serves a dual purpose: it showcases my expertise and provides step-by-step tutorials and guides to help you set up similar projects on your own.</h3>
+
+- <b>[Setting up Active Directory in Windows (via Oracle VirtualBox)](www.google.com)</b>
+
+<h2>✍🏻 TryHackMe Documentation</h2>
 
 <!--
-**HowardTechSolutions/HowardtechSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HowardtechSolutions/HowardTechSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
